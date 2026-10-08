@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "servers": {}
+  "servers": {
+    "main": {
+      "nonce": "Z54uv7WcBImOgdKT",
+      "ct": "7w513rEu2baepJr9pe3zt56Mu1OTNmpsSaOPUIWBxdm2MHn4nRtWfQrtN9A5+siIOc5iVWt6PJBZjJbDhv+35udcy0L354Z+Fw713hvLDHmfE77y6oHEQMjeVpsMWn6OkEyFQf9VH3ve0NMLHvN3PD9OGhLasG/Hxw=="
+    }
+  }
 }
